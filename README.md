@@ -1,2 +1,2 @@
 # Power-BI-and-SQL
-A dashboard using POwer BI and queries using SQL on a sales related database
+A dashboard using Power Bi regarding the satifaction of different types of product sales in different countries
